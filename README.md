@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PetitMaestro
+- 👋 Hi, I’m @eric-creative
 - 👀 I’m interested in Computer Science and Programming
 - 🌱 I’m currently learning Computer Programming
 - 💞️ I’m looking to collaborate on Software Development
